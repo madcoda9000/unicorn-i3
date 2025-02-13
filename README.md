@@ -57,7 +57,7 @@ This script provides a automated setup for i3wm on [rhino linux](https://rhinoli
 
 3. **rofi menu**
    
-   Rofi menu (win + space) is configured using a rhino linus unicorn theme. You can search for files, commands and installed applications by selection the matching button un the bottom of the rofi dialog.
+   Rofi menu (win + space) is configured using a rhino linux unicorn theme. You can search for files, commands and installed applications by selection the matching button on the bottom of the rofi dialog.
    
    ![](screenshots/rofi.png)
    
