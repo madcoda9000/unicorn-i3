@@ -127,8 +127,7 @@ win + shift + down = move selected window down
 
 1. clone this repository and navigate into the cloned directory.
    
-   `git clone https://github.com/madcoda9000/unicorn-i3.git
-   
+   `git clone https://github.com/madcoda9000/unicorn-i3.git\
    cd unicorn-i3`
    
 
