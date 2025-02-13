@@ -79,7 +79,7 @@ win + shift + e = logoff
 
 win + l = lock screen
 
-strg = quit application
+strg + q = quit application
 
 win + enter = terminal
 
@@ -87,9 +87,9 @@ win + d = dmenu
 
 win + space = rofi menu
 
-prnt = take full screenshot (stored in images folder)
+print = take full screenshot (stored in images folder)
 
-shift + prnt = take selection screenshot (stored in images folder)
+shift + print = take selection screenshot (stored in images folder)
 
 ctrl + print = take full screenshot (copied to clipboard)
 
