@@ -1,0 +1,16 @@
+/**
+ *
+ * Author : Sascha Heimann
+ * Github : @madcoda9000
+ * 
+ * Colors
+ **/
+
+* {
+    background:     #13093c;
+    background-alt: #26184c;
+    foreground:     #FFFFFFFF;
+    selected:       #8b00e7;
+    active:         #50FA7BFF;
+    urgent:         #c10080;
+}
