@@ -75,7 +75,7 @@ This script provides a automated setup for i3wm on [rhino linux](https://rhinoli
 
 ###### Most important shortcuts (for a full list see config file)
 
-win + shift +e = logoff
+win + shift + e = logoff
 
 win + l = lock screen
 
@@ -125,4 +125,17 @@ win + shift + down = move selected window down
 
 ## Installation
 
+1. clone this repository and navigate into the cloned directory.
+   
+   `git clone https://github.com/madcoda9000/unicorn-i3.git
+   cd unicorn-i3`
+   
 
+2.  make the install executeable
+    
+    `chmod +x setup_I3_Unicorn.sh`
+    
+
+3. execute the script
+   
+   `./setup_I3_Unicorn.sh`
