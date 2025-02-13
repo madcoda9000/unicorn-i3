@@ -12,6 +12,7 @@ This script provides a automated setup for i3wm on [rhino linux](https://rhinoli
 ## Features
 
 1. i3 Setup
+   
    the i3 config is modified in that way, that it mostly reflect the design provided by rhinolinux.org. I'ts using the the provided colors and icons.
    
    ![](screenshots/blank_desktop.png)
@@ -22,6 +23,7 @@ This script provides a automated setup for i3wm on [rhino linux](https://rhinoli
    
 
 2. i3bar setup
+   
    For i3bar the i3block extension is used.
    
    ![](screenshots/i3bar_blocks.png)
@@ -54,6 +56,7 @@ This script provides a automated setup for i3wm on [rhino linux](https://rhinoli
    - win + 3 = workspace Dev
 
 3. rofi menu
+   
    Rofi menu (win + space) is configured using a rhino linus unicorn theme. You can search for files, commands and installed applications by selection the matching button un the bottom of the rofi dialog.
    
    ![](screenshots/rofi.png)
