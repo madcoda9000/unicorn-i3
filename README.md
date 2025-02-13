@@ -64,6 +64,7 @@ This script provides a automated setup for i3wm on [rhino linux](https://rhinoli
    
 
 4. i3lock setup
+   
    After 5 minutes idle time the workspace is getting locked by i3lock automatically.
    
    ![](screenshots/s_LockScreen.png)
