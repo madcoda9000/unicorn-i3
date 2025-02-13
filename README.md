@@ -1,11 +1,8 @@
 # Automated I3WM Unicorn setup for Rhino Linux
 
 [- Description](#Description)
-
 [- Features](#Features)
-
 [- Shortcuts](#Shortcuts)
-
 [- Installation](#Installation)
 
 

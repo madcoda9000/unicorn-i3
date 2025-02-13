@@ -5,11 +5,13 @@
 # function to copy i3 config from .config to users home
 function copyI3Config () {
     cp -r '.config/i3' '/home/$user/.config/'
+    chmod +x '/home/$USER/.config/i3/*.sh'
 }
 
 # function to copy i3blocks from .config to users home
 function copyI3BlocksConfig () {
     cp -r '.config/i3blocks' '/home/$USER/.config/'
+    chmod +x '/home/$USER/.config/i3blocks/scripts/*'
 }
 
 # function to copy i3status from .config to users home
