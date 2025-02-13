@@ -27,7 +27,7 @@ function copyRofiConfig () {
 # END functions Block
 
 # install i3 dependencies
-sudo git apt install autoconf gcc make pkg-config libpam0g-dev libcairo2-dev libfontconfig1-dev libxcb-composite0-dev libev-dev libx11-xcb-dev libxcb-xkb-dev libxcb-xinerama0-dev libxcb-randr0-dev libxcb-image0-dev libxcb-util-dev libxcb-xrm-dev libxkbcommon-dev libxkbcommon-x11-dev libjpeg-dev i3 i3lock dmenu feh fonts-font-awesome picom fonts-droid-fallback i3blocks rofi maim xclip copyq xdotool xautolock -y
+sudo apt install git autoconf gcc make pkg-config libpam0g-dev libcairo2-dev libfontconfig1-dev libxcb-composite0-dev libev-dev libx11-xcb-dev libxcb-xkb-dev libxcb-xinerama0-dev libxcb-randr0-dev libxcb-image0-dev libxcb-util-dev libxcb-xrm-dev libxkbcommon-dev libxkbcommon-x11-dev libjpeg-dev i3 i3lock dmenu feh fonts-font-awesome picom fonts-droid-fallback i3blocks rofi maim xclip copyq xdotool xautolock -y
 
 # copy i3 config and scripts
 if [ -d "/home/$USER/.config/i3" ]; then
